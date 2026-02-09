@@ -16,7 +16,11 @@
 		"https://pudding.cool/assets/fonts/atlas/AtlasGrotesk-Regular-Web.woff2",
 		"https://pudding.cool/assets/fonts/atlas/AtlasGrotesk-Bold-Web.woff2"
 	];
-
+	<body>
+	<p>
+	Hello world
+	</p>
+	</body>
 	const { title, description, url, keywords } = copy;
 	setContext("copy", copy);
 	setContext("data", data);
